@@ -30,9 +30,8 @@
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=april2901&theme=buefy&layout=compact&title_color=6196E4&text_color=333333&border_color=6196E4" alt="WakaTime Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=april2901&theme=buefy&layout=compact&title_color=6196E4&text_color=333333&border_color=6196E4&cache_buster=1" alt="WakaTime Stats"/>
       </td>
     </tr>
   </table>
 </div>
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hide_border=true)
