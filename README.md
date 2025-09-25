@@ -32,3 +32,5 @@
     </tr>
   </table>
 </div>
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=april2901&theme=radical&layout=compact&cache_buster=1)
