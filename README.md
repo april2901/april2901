@@ -18,19 +18,21 @@
 
 ## 📊 Stats
 <div align="center">
+  <h3 align="center">📊 My GitHub Stats</h3>
   <table>
     <tr>
-      <td align="center">
-        <h3>GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=april2901&show_icons=true&theme=radical" alt="april2901's GitHub stats"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=april2901&layout=compact&theme=radical" alt="Top Languages"/>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=april2901&show_icons=true&theme=buefy&title_color=6196E4&text_color=333333&icon_color=6196E4&border_color=6196E4" alt="april2901's GitHub stats"/>
       </td>
-      <td align="center">
-        <h3>Solved.ac</h3>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=april2901">
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=april2901&layout=compact&theme=buefy&title_color=6196E4&text_color=333333&border_color=6196E4" alt="Top Languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=april2901&theme=buefy&layout=compact&title_color=6196E4&text_color=333333&border_color=6196E4" alt="WakaTime Stats"/>
       </td>
     </tr>
   </table>
 </div>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=april2901&theme=radical&layout=compact&cache_buster=1)
