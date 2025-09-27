@@ -3,7 +3,7 @@
 <br/>
 
 ## 📖 About Me
-- 💻 한양대학교 컴퓨터소프트웨어학부(Computer Software Engineering, Hanyang University) 재학 중
+- 💻 Computer Software Engineering, Hanyang University (한양대학교 컴퓨터소프트웨어학부 재학 중)
 <br/>
 
 
