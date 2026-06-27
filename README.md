@@ -6,9 +6,9 @@
 <br/>
 
 ## 📖 About Me
-- 🎓 4th-year student majoring in **Computer Software Engineering** at Hanyang University
+- 🎓 4th-year student majoring in **Computer Software Engineering** at Hanyang University <img height="18" alt="image" src="https://github.com/user-attachments/assets/27463851-d3e1-4b95-a057-04577be61097" />
 - 🔭 Currently working as an intern in a **Computer Vision Lab**
-- 🌱 Deeply interested in **Autonomous Driving, 3D Gaussian Splatting (3DGS)**
+- 🌱 Interested in : **Autonomous Driving, 3D Gaussian Splatting (3DGS)**
 - 📝 Constantly documenting my journey and sharing knowledge on my blogs
 
 <br/>
