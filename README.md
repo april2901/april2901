@@ -1,28 +1,42 @@
-<!-- 헤더 애니메이션 이미지 -->
+<!-- Header Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6196E4&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=50&fontColor=ffffff" />
 </div>
 
 <br/>
 
-## 📖 About Me
-- 🎓 4th-year student majoring in **Computer Software Engineering** at Hanyang University <img height="18" alt="image" src="https://github.com/user-attachments/assets/27463851-d3e1-4b95-a057-04577be61097" />
-- 🔭 Currently working as an intern in a **Computer Vision Lab**
-- 🌱 Interested in : **Autonomous Driving, 3D Gaussian Splatting (3DGS)**
-- 📝 Constantly documenting my journey and sharing knowledge on my blogs
+## 👤 Basic Info
+- **Name:** DoHoon Kim, 김도훈
+- **Email:** [dennis04297@gmail.com](mailto:dennis04297@gmail.com)
+- **Academic Interests:** Computer Vision, 3D Reconstruction, Autonomous Driving
+- **Hobbies:** Skiing, Climbing, Freediving, Wine
 
 <br/>
 
-<br/>
-
-## 🔗 Blog links & Contact
-- 👨‍💻 **IT Blog:** [april2901.tistory.com](https://april2901.tistory.com)
-- 🍷 **Personal Blog:** [blog.naver.com/april2901](https://blog.naver.com/april2901)
-- ✉️ **Email:** [dennis04297@gmail.com](mailto:dennis04297@gmail.com)
+## 🎓 Education
+- **Hanyang University**
+  - B.S. in Computer Software Engineering 
+  - *Mar 2020 ~ Present*
 
 <br/>
 
-## 📊 My GitHub Stats
+## 🔬 Academic & Research
+- **Position:** Undergraduate Intern at Computer Vision Lab (CV Lab)
+- **Core Research Interests:**
+  - 3D Gaussian Splatting (3DGS)
+  - Autonomous Driving
+  - Reinforcement Learning (RL)
+
+<br/>
+
+## 🔗 Links
+- 👨‍💻 **IT Blog (Tistory):** [april2901.tistory.com](https://april2901.tistory.com) 
+- ✈️ **Daily Blog (Naver Blog):** [blog.naver.com/april2901](https://blog.naver.com/april2901) 
+
+<br/>
+
+## 📊 Github Stats
+
 <div align="center">
   <table>
     <tr>
@@ -40,3 +54,21 @@
     </tr>
   </table>
 </div>
+<br/>
+
+## 🏅 Certifications & Activities
+| Category | Certification | Details | date |
+| :--- | :--- | :--- | :--- |
+| **IT** | SQL Developer (SQLD) | 한국데이터산업진흥원 | Dec 2025 |
+| **Sports** | Advanced Freediver | PADI (Professional Association of Diving Instructors) | Aug 2024 |
+| **Sports** | Ski Level 1 | 대한스키지도자연맹 (KSIA) | Jan 2024 |
+| **General** | 전역증(Military Service Discharge) | 대한민국 육군 (Republic of Korea Army) | Oct 2023 |
+| **IT** | 정보처리기능사 | 한국산업인력공단 (HRDKorea) | Jun 2023 |
+| **Hobby** | Wine Sommelier Level 1 | Korea Vocational Skills Development Institute | Feb 2022 |
+| **Hobby** | Drone / UAV Class 4 (Multicopter) | 한국교통안전공단 (Korea Transportation Safety Authority) | Nov 2021 |
+| **IT** | Coding Specialist Professional Level 1 (C language) | YBM | Jul 2021 |
+| **Language** | TOEIC (Score: 800) - *Expired* | ETS | May 2021 |
+| **License** | Driver's License (Class 2 Regular) | 서울지방경찰청 (Seoul Metropolitan Police Agency) | Apr 2021 |
+
+<br/>
+
